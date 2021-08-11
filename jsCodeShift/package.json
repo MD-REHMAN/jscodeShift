@@ -1,0 +1,10 @@
+{
+  "name": "bableAstParse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rehman",
+  "license": "MIT",
+  "dependencies": {
+    "jscodeshift-helper": "^1.1.0"
+  }
+}
